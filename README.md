@@ -123,14 +123,14 @@ By analyzing transaction performance, high-value and abnormal spending, suspicio
 
 9. Dashboard Preview
 
-📊 Transaction Performance Dashboard
+📊 Executive Overview & Transaction Performance
 https://github.com/sohanaparveen/CODEVEDX_task3/blob/main/Snapshot%20of%20Execution%20Overview%20%26Transaction%20performance.jpeg
 
 💰 High-Value & Abnormal Spending Dashboard
-//github.com/sohanaparveen/CODEVEDX_task3/blob/main/Snapshot%20of%20High%20Value%20%26%20Abnormal%20Spending.jpeg
+https://github.com/sohanaparveen/CODEVEDX_task3/blob/main/Snapshot%20of%20High%20Value%20%26%20Abnormal%20Spending.jpeg
 
 🚨 Suspicious Transaction Analysis Dashboard
-//github.com/sohanaparveen/CODEVEDX_task3/blob/main/Snapshot%20of%20%20Suspicious%20Transaction%20Analysis.jpeg
+https://github.com/sohanaparveen/CODEVEDX_task3/blob/main/Snapshot%20of%20%20Suspicious%20Transaction%20Analysis.jpeg
 
 🏦 Loan Risk Analysis Dashboard
-//github.com/sohanaparveen/CODEVEDX_task3/blob/main/Snapshot%20of%20Loan%20Risk%20Analysis.jpeg
+https://github.com/sohanaparveen/CODEVEDX_task3/blob/main/Snapshot%20of%20Loan%20Risk%20Analysis.jpeg
